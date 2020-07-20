@@ -1,0 +1,23 @@
+﻿{
+    "voices": [
+        {
+            "categoryName": "DEMO",
+            "categoryDescription": {
+              "zh-CN": "▌DEMO",
+              "ja-JP": "▌デモ",
+              "en-US": "▌DEMO"
+            },
+            "voiceList": [
+              {
+                  "name": "DEMO-1",
+                  "path": "DEMO-1.mp3",
+                  "description": {
+                      "zh-CN": "DEMO",
+                      "ja-JP": "DEMO",
+                      "en-US": "DEMO"
+                  }
+              }
+            ]
+        }
+    ]
+}
