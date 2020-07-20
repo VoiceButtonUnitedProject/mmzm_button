@@ -13,7 +13,7 @@
                 <button id="small" class="btn btn-control" style="right:226px;bottom:15px;" :class="{ 'disabled': overlapCheck }" @click="autoPlay"><input class="checkbox" type="checkbox" v-model="autoCheck"><img src="/resources/auto.svg" style="width: 30px;"></button>
             </div>
             <div class="title">{{$t("info.title")}}<img src="/resources/bg.png" style="width:40px;height:auto;margin-left:5px;margin-bottom: 3px;"></div>
-                <div class="cate-ctrldft">{{$t("action.live")}}
+                <!--<div class="cate-ctrldft">{{$t("action.live")}}
                     <div v-for="(item) in youtubeData.channels" :key="item.yt_channel_id"><button class="btn btn-ctrldft" v-if="item.yt_channel_id === 'YTB ID'">{{$t('info.subscriber')}}{{item.subscriber_count}}</button></div>
                     <div v-for="live in live_data" :key="live.live_schedule">
                         <div v-if="live.title.length">
@@ -33,7 +33,7 @@
                 <div class="cate-ctrldft">{{$t("action.random")}}
                         <input id="share" class="btn btn-ctrldft" style="width: 190px;-webkit-user-select:text !important;" type="text" name="u" value :placeholder="$t('action.placeholder')">
                         <button class="btn btn-ctrldft" @click="randomshare">{{$t("action.share")}}</button>
-                </div>
+                </div>-->
                 <div class="cate-ctrldft">{{$t("action.adtitle")}}
                     <button class="btn btn-ctrldft" onclick="window.open('EXAMPLE.COM')">{{$t("action.weekly")}}</button>
                     <button class="btn btn-ctrldft" onclick="window.open('https://vtbbtn.org')">{{$t("action.vtbbtn")}}</button>

@@ -20,14 +20,14 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right" style="margin-top:0px;margin-bottom:0px">
                         <li class="dropdown">
-                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="resources/download.svg" height="23"/></a>
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="margin-bottom: 7px;"><img src="resources/download.svg" height="23"/></a>
                             <ul class="dropdown-menu">
-                                <li style="width: 63px;"><a href="https://<DOMAIN SITE>/resources/android.apk" download="android.apk" target="_blank" style="padding-left:18px"><img src="resources/Android.png" height="27"/></a></li>
-                                <li style="width: 63px;"><a href="https://<DOMAIN SITE>/resources/apple.mobileconfig" download="apple.mobileconfig" target="_blank" style="padding-left:18px"><img src="resources/Apple.png" height="27"/></a></li>
+                                <li style="width: 63px;"><a href="https://<DOMAIN SITE>/resources/android.apk" download="android.apk" target="_blank" style="padding-left: 18px;padding-top: 0px;padding-bottom: 11px;"><img src="resources/Android.png" height="27"/></a></li>
+                                <!--<li style="width: 63px;"><a href="https://<DOMAIN SITE>/resources/apple.mobileconfig" download="apple.mobileconfig" target="_blank" style="padding-left:18px"><img src="resources/Apple.png" height="27"/></a></li>-->
                             </ul>
                         </li>
                     </ul>
-                    <ul class="nav navbar-nav navbar-right" style="margin-top:0px;">
+                    <!--<ul class="nav navbar-nav navbar-right" style="margin-top:0px;">
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="resources/lang.svg" height="23"/></a>
                             <ul class="dropdown-menu">
@@ -36,7 +36,7 @@
                                 <li style="width: 63px;"><a href="javascript:;" style="text-align: center;padding: 5px 0px;width: 63px;margin-bottom: 4px;" @click="chlang('en-US')"><img src="resources/England.jpg" width="25"></a></li>
                             </ul>
                         </li>
-                    </ul>
+                    </ul>-->
                 </div>
             </div>
         </nav>
