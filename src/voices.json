@@ -1,23 +1,124 @@
 ﻿{
     "voices": [
-        {
-            "categoryName": "DEMO",
-            "categoryDescription": {
-              "zh-CN": "▌DEMO",
-              "ja-JP": "▌デモ",
-              "en-US": "▌DEMO"
-            },
-            "voiceList": [
-              {
-                  "name": "DEMO-1",
-                  "path": "DEMO-1.mp3",
-                  "description": {
-                      "zh-CN": "DEMO",
-                      "ja-JP": "DEMO",
-                      "en-US": "DEMO"
-                  }
-              }
-            ]
-        }
+      {
+        "categoryName": "cute",
+        "categoryDescription": {
+          "zh-CN": "▌可爱",
+          "ja-JP": "",
+          "en-US": ""
+        },
+        "voiceList": [
+          {
+            "name": "mmzm-1",
+            "path": "我很可爱，请给我钱.mp3",
+            "description": {
+              "zh-CN": "我很可爱，请给我钱",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          },
+          {
+            "name": "mmzm-2",
+            "path": "别送了.mp3",
+            "description": {
+              "zh-CN": "别送了",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          },
+          {
+            "name": "a1",
+            "path": "啊1.mp3",
+            "description": {
+              "zh-CN": "Σ(ﾟДﾟ)啊？！",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          },
+          {
+            "name": "shenme1",
+            "path": "什么1.mp3",
+            "description": {
+              "zh-CN": "Σ(ﾟДﾟ)什么？！",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          }
+        ]
+      },
+      {
+        "categoryName": "kusa",
+        "categoryDescription": {
+          "zh-CN": "▌草",
+          "ja-JP": "",
+          "en-US": ""
+        },
+        "voiceList": [
+          {
+            "name": "atm",
+            "path": "这是你身为一个ATM机该说出来的话吗.mp3",
+            "description": {
+              "zh-CN": "这是你身为一个ATM机该说出来的话吗",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          },
+          {
+            "name": "nya1",
+            "path": "喵.mp3",
+            "description": {
+              "zh-CN": "喵（音量注意）",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          },
+          {
+            "name": "qiangqian1",
+            "path": "我直播就是为了抢钱.mp3",
+            "description": {
+              "zh-CN": "我直播就是为了抢钱",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          }
+        ]
+      },
+      {
+        "categoryName": "mihuo",
+        "categoryDescription": {
+          "zh-CN": "▌？",
+          "ja-JP": "",
+          "en-US": ""
+        },
+        "voiceList": [
+          {
+            "name": "huolongguojiao",
+            "path": "火龙果怎么叫.mp3",
+            "description": {
+              "zh-CN": "火龙果怎么叫",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          },
+          {
+            "name": "gaobai1",
+            "path": "告白1.mp3",
+            "description": {
+              "zh-CN": "告白",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          },
+          {
+            "name": "sabi1",
+            "path": "打电话骂你sabi.mp3",
+            "description": {
+              "zh-CN": "打电话骂你sabi",
+              "ja-JP": "",
+              "en-US": ""
+            }
+          }
+        ]
+      }
     ]
-}
+  }

@@ -14,9 +14,9 @@
                 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav" style="margin-bottom:0px;">
-                        <li><a href="https://www.youtube.com/channel/<YTB ID>" target="_blank" style="margin-top:2px"><img src="resources/youtube_social_icon_red.png" height="20"/></a></li>
-                        <li><a href="https://twitter.com/<TWITTER ID>" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="27"/></a></li>
-                        <li><a href="https://space.bilibili.com/<BILIBILI UID>" target="_blank"><img src="resources/bilibili.png" height="27"/></a></li>
+                        <!--<li><a href="https://www.youtube.com/channel/<YTB ID>" target="_blank" style="margin-top:2px"><img src="resources/youtube_social_icon_red.png" height="20"/></a></li>
+                        <li><a href="https://twitter.com/<TWITTER ID>" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="27"/></a></li>-->
+                        <li><a href="https://space.bilibili.com/488232269" target="_blank"><img src="resources/bilibili.png" height="27"/></a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right" style="margin-top:0px;margin-bottom:0px">
                         <li class="dropdown">
@@ -49,8 +49,8 @@
                 <div class="pull-left">
                     <div class="text-left" style="color: rgba(255, 166, 102);">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
-                    <div class="text-left"><a href="https://voicebuttonunitedproject.github.io/<PROJECT>/" target="_blank">{{$t("info.audioStaff")}}</a></div>
-                    <div class="text-left"><a href="https://github.com/VoiceButtonUnitedProject/<PROJECT>" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-left"><a href="https://voicebuttonunitedproject.github.io/mmzm_button/" target="_blank">{{$t("info.audioStaff")}}</a></div>
+                    <div class="text-left"><a href="https://github.com/VoiceButtonUnitedProject/mmzm_button" target="_blank">{{$t("info.toGithub")}}</a></div>
                 </div>
             </div>
         </footer>
