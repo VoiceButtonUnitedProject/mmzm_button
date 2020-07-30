@@ -1,6 +1,6 @@
 # 眠裤按钮
 
-mmzm Button [https://mmzm.vercel.app/](https://mmzm.vercel.app/)
+mmzm Button [https://mmzm.vercel.app/]https://mmzm.vercel.app/)
 
 相关链接:
 
