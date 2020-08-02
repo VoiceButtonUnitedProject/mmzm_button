@@ -1,20 +1,17 @@
-# DEMO按钮/デモボタン/DEMO button
+# 眠裤按钮
 
-Mio Button [http://DOMAIN SITE](https://DOMAIN SITE)
+mmzm Button [https://mmzm.vercel.app/](https://mmzm.vercel.app/)
 
-相关链接/関連URL/Related Links:
+相关链接:
 
-* [FULLNAME's Youtube channel](https://www.youtube.com/channel/YTB ID)
+* [mmzm's Bilibili channel](https://space.bilibili.com/488232269)
 
-* [Ookami Mio's Twitter](https://twitter.com/TWITTER ID)
 
-## 特别鸣谢/特別な感謝/Special Thanks(Bilibili/Twitter ID)
+## 特别鸣谢(Bilibili/Twitter ID)
 
-音频剪辑/オーディオクリップ担当/Audio Editing: 
+音频剪辑: 
 
-翻译/翻訳担当/Translator：
-
-素材建议/リソース提案者/Resource proposal：
+素材建议：
 
 This project is supported by Voice Button United Studio.
 
@@ -25,10 +22,9 @@ This project is modified based on the [Aqua button](https://github.com/zyzsdy/aq
 ## LICENSE
 
 程序部分： MIT
-Code: MIT
 
-音频部分: 引用 [Hololive 二次创作条款](https://www.hololive.tv/terms).
-Audio: Under [Hololive's Fan Work Guidelines](https://en.hololive.tv/terms).
+音频部分: 
 
-本项目为爱好者作品，和hololive官方没有关联/このサイトはファン作品であり、公式とは関係ありません/This is a fan-made website and is not related to Hololive/Cover Corp.
+
+本项目为爱好者作品
 
