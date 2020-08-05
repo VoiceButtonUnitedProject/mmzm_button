@@ -1,6 +1,6 @@
 const zh_CN = {
     info: {
-        title: "眠裤按钮",
+        title: "眠按钮",
         info: "信息",
         author: "VBUP 2020",
         null: "空",
