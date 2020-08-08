@@ -1,6 +1,6 @@
-# 眠裤按钮
+# 眠按钮
 
-mmzm Button [https://mmzm.vercel.app/]https://mmzm.vercel.app/)
+mmzm Button [https://mmzm.moe](https://mmzm.moe)
 
 相关链接:
 
@@ -26,5 +26,5 @@ This project is modified based on the [Aqua button](https://github.com/zyzsdy/aq
 音频部分: 
 
 
-本项目为爱好者作品
+
 

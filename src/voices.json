@@ -10,7 +10,7 @@
         "voiceList": [
           {
             "name": "mmzm-1",
-            "path": "我很可爱，请给我钱.mp3",
+            "path": "mmzm-1.mp3",
             "description": {
               "zh-CN": "我很可爱，请给我钱",
               "ja-JP": "",
@@ -19,7 +19,7 @@
           },
           {
             "name": "mmzm-2",
-            "path": "别送了.mp3",
+            "path": "mmzm-2.mp3",
             "description": {
               "zh-CN": "别送了",
               "ja-JP": "",
@@ -27,8 +27,8 @@
             }
           },
           {
-            "name": "a1",
-            "path": "啊1.mp3",
+            "name": "mmzm-3",
+            "path": "mmzm-3.mp3",
             "description": {
               "zh-CN": "Σ(ﾟДﾟ)啊？！",
               "ja-JP": "",
@@ -36,8 +36,8 @@
             }
           },
           {
-            "name": "shenme1",
-            "path": "什么1.mp3",
+            "name": "mmzm-4",
+            "path": "mmzm-4.mp3",
             "description": {
               "zh-CN": "Σ(ﾟДﾟ)什么？！",
               "ja-JP": "",
@@ -55,8 +55,8 @@
         },
         "voiceList": [
           {
-            "name": "atm",
-            "path": "这是你身为一个ATM机该说出来的话吗.mp3",
+            "name": "mmzm-5",
+            "path": "mmzm-5.mp3",
             "description": {
               "zh-CN": "这是你身为一个ATM机该说出来的话吗",
               "ja-JP": "",
@@ -64,8 +64,8 @@
             }
           },
           {
-            "name": "nya1",
-            "path": "喵.mp3",
+            "name": "mmzm-6",
+            "path": "mmzm-6.mp3",
             "description": {
               "zh-CN": "喵（音量注意）",
               "ja-JP": "",
@@ -73,8 +73,8 @@
             }
           },
           {
-            "name": "qiangqian1",
-            "path": "我直播就是为了抢钱.mp3",
+            "name": "mmzm-7",
+            "path": "mmzm-7.mp3",
             "description": {
               "zh-CN": "我直播就是为了抢钱",
               "ja-JP": "",
@@ -92,8 +92,8 @@
         },
         "voiceList": [
           {
-            "name": "huolongguojiao",
-            "path": "火龙果怎么叫.mp3",
+            "name": "mmzm-8",
+            "path": "mmzm-8.mp3",
             "description": {
               "zh-CN": "火龙果怎么叫",
               "ja-JP": "",
@@ -101,8 +101,8 @@
             }
           },
           {
-            "name": "gaobai1",
-            "path": "告白1.mp3",
+            "name": "mmzm-9",
+            "path": "mmzm-9.mp3",
             "description": {
               "zh-CN": "告白",
               "ja-JP": "",
@@ -110,8 +110,8 @@
             }
           },
           {
-            "name": "sabi1",
-            "path": "打电话骂你sabi.mp3",
+            "name": "mmzm-10",
+            "path": "mmzm-10.mp3",
             "description": {
               "zh-CN": "打电话骂你sabi",
               "ja-JP": "",
