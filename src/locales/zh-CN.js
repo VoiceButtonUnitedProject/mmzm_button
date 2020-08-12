@@ -2,7 +2,7 @@ const zh_CN = {
     info: {
         title: "眠按钮",
         info: "信息",
-        author: "VBUP 2020",
+        author: "眠按钮团队 2020",
         null: "空",
         subscriber: "当前Youtube订阅数为：",
         audioStaff: "鸣谢名单以及网站相关",
