@@ -65,7 +65,7 @@
     max-width: max-content;
 }
 .btn:hover, .btn:active, .btn.focus{
-    color: #ffffff;
+    color: #6e705d;
 }
 .btn-control-main{
     position: fixed;
@@ -171,7 +171,6 @@
     background-color: #F7F6DA;
     border-radius: 30px;
     text-align: left;
-    text-shadow: rgba(184, 88, 88, 0.281) 5px 6px 10px;
     box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.151);
     color: #535546;
     transition-property: all;
