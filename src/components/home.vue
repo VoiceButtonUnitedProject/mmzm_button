@@ -12,7 +12,7 @@
                 <button id="small" class="btn btn-control" style="right:168px;bottom:15px;padding:5.5px;" :class="{ 'disabled': autoCheck }" @click="overlap" :title="$t('info.overlapTips')"><input class="checkbox" type="checkbox" v-model="overlapCheck"><img src="/resources/over.svg" style="width: 25px;"></button>
                 <button id="small" class="btn btn-control" style="right:226px;bottom:15px;" :class="{ 'disabled': overlapCheck }" @click="autoPlay"><input class="checkbox" type="checkbox" v-model="autoCheck"><img src="/resources/auto.svg" style="width: 30px;"></button>
             </div>
-            <div class="title">{{$t("info.title")}}<img src="/resources/bg.png" style="width:40px;height:auto;margin-left:5px;margin-bottom: 3px;"></div>
+            <div class="title">{{$t("info.title")}}<img src="/resources/bg.png" style="width: 60px; height: auto; margin-left: 20px; margin-bottom: 3px;"></div>
                 <!--<div class="cate-ctrldft">{{$t("action.live")}}
                     <div v-for="(item) in youtubeData.channels" :key="item.yt_channel_id"><button class="btn btn-ctrldft" v-if="item.yt_channel_id === 'YTB ID'">{{$t('info.subscriber')}}{{item.subscriber_count}}</button></div>
                     <div v-for="live in live_data" :key="live.live_schedule">
@@ -57,7 +57,7 @@
     border-radius: 30px;
     font-weight: 900;
     text-align: left;
-    color: #fff;    
+    color: #BCFF28;    
     text-shadow:rgba(0, 0, 0, 0.308) 5px 6px 10px;
     font-size: 35px;
     padding-top: 10px;
@@ -70,7 +70,7 @@
 .btn-control-main{
     position: fixed;
     z-index: 2;
-    background-color: #ff7b7bc2;/*背景颜色*/
+    background-color: #BCFF28;/*背景颜色*/
     border: 0px; /*边框去除*/
     border-radius: 17px;/*边框圆角*/
     max-width: 100%;
@@ -85,13 +85,13 @@
     text-align: center;
 }
 .btn-control-main:hover,.btn-control:focus{
-    background-color:#ff7b7be5;    
+    background-color:#abe927;    
 
 }
 .btn-control{
     z-index: 1;
     position: fixed;
-    background-color: #ff7b7bc2;/*背景颜色*/
+    background-color: #BCFF28;/*背景颜色*/
     border: 0px; /*边框去除*/
     border-radius: 17px;/*边框圆角*/
     max-width: 100%;
@@ -108,14 +108,14 @@
     0%{right:15px;}
 }
 .btn-control:hover,.btn-control:focus{
-    background-color:#ff7b7be5
+    background-color:#abe927;    
 }
 .btn-ctrldft{/*今日随机按钮*/
-    background-image: linear-gradient(to bottom right,rgb(255, 184, 184),rgb(255, 156, 156)) ;
+    background-color: #E8E1BE;/*背景颜色*/
     border: 0px; /*边框去除*/
     border-radius: 17px;/*边框圆角*/
     padding-top: 3px;
-    box-shadow: 0 8px 16px 0px rgba(184, 88, 88, 0.26);
+    box-shadow: 0 8px 16px 0px rgba(0,0,0,0.2);
     text-align: center;
     font-weight: 600;
     padding-bottom: 3px;
@@ -135,7 +135,7 @@
     box-shadow: 0 0 5px 5px rgba(255, 255, 255, 0.397);
 }
 .cate-header{/*分类标题*/
-    background-image: linear-gradient(to bottom right,rgb(78, 78, 78),rgb(58, 58, 58)) ;
+    background-color: #F7F6DA;
     box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.151);
     border-radius: 30px;
     text-align: left;
@@ -143,7 +143,7 @@
     transition-property: all;
     transition-duration: 300ms;
     font-weight: 600;
-    color: #fff;
+    color: #535546;
     padding-top: 18px;
     padding-left: 20px;
     font-size: 20px;
@@ -168,12 +168,12 @@
     font-weight: 600;
 }
 .cate-ctrldft{/*控制中心分类标题*/
-    background-image: linear-gradient(to bottom right,rgb(255, 153, 153),rgb(255, 125, 125));
+    background-color: #F7F6DA;
     border-radius: 30px;
     text-align: left;
     text-shadow: rgba(184, 88, 88, 0.281) 5px 6px 10px;
     box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.151);
-    color: #fff;
+    color: #535546;
     transition-property: all;
     transition-duration: 300ms;
     font-size: 20px;
@@ -201,8 +201,8 @@
     margin: 5px;
 }
 .btn-new {
-    color: #fff;
-    background-image: linear-gradient(to bottom right,rgba(255, 120, 120, 0.836),rgba(255, 71, 71, 0.836));
+    color: #535546;
+    background-color: #E8E1BE;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     border-radius: 15px;
     border: 0px;
@@ -215,11 +215,11 @@
     white-space: normal !important;
 }
 .btn-new:active,.btn-new:focus{
-    color: rgb(255, 204, 204);
-    background-image: linear-gradient(to top left,rgba(255, 120, 120, 0.836),rgba(255, 71, 71, 0.836));
+    color: #6f725dcc;
+    background-color: #fdf5cd;
 }
 .btn-new:hover{
-   box-shadow: 0px 0px 5px 5px rgba(252, 120, 120, 0.322);
+   box-shadow: 0px 0px 5px 5px rgba(255, 255, 255, 0.322);
 }
 .checkbox {
     display: inline-block;

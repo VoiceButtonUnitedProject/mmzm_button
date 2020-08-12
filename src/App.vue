@@ -45,7 +45,7 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
-                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">DEMO VERSION 1.0.0</a></button>
+                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #585858;text-decoration: none">DEMO VERSION 1.0.0</a></button>
                 <div class="pull-left">
                     <div class="text-left" style="color: rgba(255, 166, 102);">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
@@ -61,28 +61,28 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 .main-content{ /*内容部分*/
     min-height: 100vh;
-    background-color: #333333;
+    background-color: #D0CDB8;
 }
 .btn-buttom{
     border: 0px;
     padding: 1px 10px;
 }
 .btn-buttom-info {
-    color: #fff;
+    color: #535546;
     font-size: 12px;
-    background-color: rgb(0, 214, 0);
+    background-color: #BCFF28;
     border-radius: 5px;
 }
 .btn-buttom-info:hover {
-    color: #fff;
+    color: #535546;
     font-size: 12px;
-    background-color: rgb(4, 163, 4);
+    background-color:#abe927;    
     border-radius: 5px;
 }
 .btn-buttom-info:focus {
-    color: #fff;
+    color: #535546;
     font-size: 12px;
-    background-color: rgb(4, 163, 4);
+    background-color:#abe927;    
     border-radius: 5px;
 }
 .navbar{ 
