@@ -6,12 +6,17 @@ mmzm Button [https://mmzm.moe](https://mmzm.moe)
 
 * [mmzm's Bilibili channel](https://space.bilibili.com/488232269)
 
+## 投稿
+
+请加粉丝群 582912686
 
 ## 特别鸣谢(Bilibili/Twitter ID)
 
-音频剪辑: 
+音频剪辑: 大家
 
-素材建议：
+模板提供：按钮联合工作室 
+
+主题设计：kumi
 
 This project is supported by Voice Button United Studio.
 
@@ -22,8 +27,6 @@ This project is modified based on the [Aqua button](https://github.com/zyzsdy/aq
 ## LICENSE
 
 程序部分： MIT
-
-音频部分: 
 
 
 
