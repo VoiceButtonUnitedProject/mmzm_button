@@ -36,8 +36,8 @@
                 </div>-->
                 <div class="cate-ctrldft">{{$t("action.adtitle")}}
                     <!--<button class="btn btn-ctrldft" onclick="window.open('EXAMPLE.COM')">{{$t("action.weekly")}}</button>-->
+                    <button class="btn btn-ctrldft" onclick="window.open('https://mmzm.cowtransfer.com/s/1fa6a9fb193d4c')">{{$t("action.sticker")}}</button>
                     <button class="btn btn-ctrldft" onclick="window.open('https://vtbbtn.org')">{{$t("action.vtbbtn")}}</button>
-                    <!--<button class="btn btn-ctrldft" onclick="window.open('EXAMPLE.COM')">{{$t("action.sticker")}}</button>-->
                 </div>
             <div v-for="category in voices" v-bind:key="category.categoryName">
                 <div class="cate-header">{{ $t("voicecategory." + category.categoryName) }} 
@@ -128,8 +128,8 @@
     white-space: normal !important;
 }
 .btn-ctrldft:active,.btn-ctrldft:focus{/*宣传中心按钮选定*/
-    background-image: linear-gradient(to top left,rgb(255, 184, 184),rgb(255, 156, 156)) ;
-    color: rgb(255, 228, 228);
+    color: #6f725dcc;
+    background-color: #fdf5cd;
 }
 .btn-ctrldft:hover{
     box-shadow: 0 0 5px 5px rgba(255, 255, 255, 0.397);

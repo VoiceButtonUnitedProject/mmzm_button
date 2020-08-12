@@ -2,12 +2,12 @@ const zh_CN = {
     info: {
         title: "眠按钮",
         info: "信息",
-        author: "眠按钮团队 2020",
+        author: "按钮联合工作室 × 眠目直木二创组 2020",
         null: "空",
         subscriber: "当前Youtube订阅数为：",
         audioStaff: "鸣谢名单以及网站相关",
         toGithub: "请在GitHub提出您的宝贵意见",
-        notOfficial: "本站为爱好者作品，和官方没有关联。上传的音频文件若有侵犯您的权益，请立即联系我们删除:support@vbup.org",
+        notOfficial: "意见和反馈：support@vbup.org",
         overlapTips: "叠加播放无法暂停，同时会创建大量线程，建议偶尔刷新页面"
     },
     action: {
@@ -27,7 +27,7 @@ const zh_CN = {
         noplay: "",
         adtitle: "● 联动项目",
         weekly: "WEEKLY PROJECT",
-        sticker: "OTHER PROJECT",
+        sticker: "眠目直木的录播网盘",
         plan: "计划日期",
         ing: "正在直播"
     },
