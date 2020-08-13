@@ -57,7 +57,7 @@
     border-radius: 30px;
     font-weight: 900;
     text-align: left;
-    color: #BCFF28;    
+    color: #BDF94F;    
     text-shadow:rgba(0, 0, 0, 0.308) 5px 6px 10px;
     font-size: 35px;
     padding-top: 10px;
@@ -70,7 +70,7 @@
 .btn-control-main{
     position: fixed;
     z-index: 2;
-    background-color: #BCFF28;/*背景颜色*/
+    background-color: #BDF94F;/*背景颜色*/
     border: 0px; /*边框去除*/
     border-radius: 17px;/*边框圆角*/
     max-width: 100%;
@@ -91,7 +91,7 @@
 .btn-control{
     z-index: 1;
     position: fixed;
-    background-color: #BCFF28;/*背景颜色*/
+    background-color: #BDF94F;/*背景颜色*/
     border: 0px; /*边框去除*/
     border-radius: 17px;/*边框圆角*/
     max-width: 100%;
@@ -154,9 +154,9 @@
     box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.3);
 }
 .btn-body-status{/*播放状态分类标题*/
-    background-color: #585858d8;
+    background-color: #161616;
     border-radius: 150px;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.2);
     position: fixed;

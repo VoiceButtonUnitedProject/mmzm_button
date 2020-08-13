@@ -47,7 +47,7 @@
             <div class="container-fluid footer-content">
                 <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #585858;text-decoration: none"> 眠按钮 BETA</a></button>
                 <div class="pull-left">
-                    <div class="text-left" style="color: rgba(255, 166, 102);">{{$t("info.author")}}</div>
+                    <div class="text-left" style="color: #ffffff;">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
                     <div class="text-left"><a href="https://voicebuttonunitedproject.github.io/mmzm_button/" target="_blank">{{$t("info.audioStaff")}}</a></div>
                     <div class="text-left"><a href="https://github.com/VoiceButtonUnitedProject/mmzm_button" target="_blank">{{$t("info.toGithub")}}</a></div>
@@ -70,7 +70,7 @@
 .btn-buttom-info {
     color: #535546;
     font-size: 12px;
-    background-color: #BCFF28;
+    background-color: #BDF94F;
     border-radius: 5px;
 }
 .btn-buttom-info:hover {
@@ -87,7 +87,7 @@
 }
 .navbar{ 
     box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.151);
-    background-color: rgba(34, 34, 34, 0.5);/*顶栏部分*/
+    background-color: #161616;/*顶栏部分*/
     margin: 15px;
 }
 .navbar-fixed-top{ 
@@ -170,12 +170,12 @@
     width: 100%;
     height: 100%;
     min-height: 60px;
-    background-color: #222222;
+    background-color: #161616;
 }
 .footer-content {
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #c2c2c2;
+    color: #E0ACAD;
     font-weight:600;
 }
 .text-right{
