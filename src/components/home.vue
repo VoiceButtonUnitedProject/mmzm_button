@@ -12,7 +12,7 @@
                 <button id="small" class="btn btn-control" style="right:168px;bottom:15px;padding:5.5px;" :class="{ 'disabled': autoCheck }" @click="overlap" :title="$t('info.overlapTips')"><input class="checkbox" type="checkbox" v-model="overlapCheck"><img src="/resources/over.svg" style="width: 25px;"></button>
                 <button id="small" class="btn btn-control" style="right:226px;bottom:15px;" :class="{ 'disabled': overlapCheck }" @click="autoPlay"><input class="checkbox" type="checkbox" v-model="autoCheck"><img src="/resources/auto.svg" style="width: 30px;"></button>
             </div>
-            <div class="title">{{$t("info.title")}}<img src="/resources/bg.png" style="width: 60px; height: auto; margin-left: 20px; margin-bottom: 3px;"></div>
+            <div class="title">{{$t("info.title")}}<img src="/resources/bg.png" style="width: 45px; height: auto; margin-left: 20px; margin-bottom: 3px;"></div>
                 <!--<div class="cate-ctrldft">{{$t("action.live")}}
                     <div v-for="(item) in youtubeData.channels" :key="item.yt_channel_id"><button class="btn btn-ctrldft" v-if="item.yt_channel_id === 'YTB ID'">{{$t('info.subscriber')}}{{item.subscriber_count}}</button></div>
                     <div v-for="live in live_data" :key="live.live_schedule">
