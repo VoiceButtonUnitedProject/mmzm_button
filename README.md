@@ -6,6 +6,8 @@ mmzm Button [https://mmzm.moe](https://mmzm.moe)
 
 * [mmzm's Bilibili channel](https://space.bilibili.com/488232269)
 
+管理员：Izumi
+
 ## 投稿
 
 请加粉丝群 582912686

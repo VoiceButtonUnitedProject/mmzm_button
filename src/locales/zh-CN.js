@@ -7,7 +7,7 @@ const zh_CN = {
         subscriber: "当前Youtube订阅数为：",
         audioStaff: "鸣谢名单以及网站相关",
         toGithub: "请在GitHub提出您的宝贵意见",
-        notOfficial: "意见和反馈：Uiohere8@gmail.com",
+        notOfficial: "意见和反馈：mmzmMoe@outlook.com",
         overlapTips: "叠加播放无法暂停，同时会创建大量线程，建议偶尔刷新页面"
     },
     action: {

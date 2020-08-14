@@ -1,9 +1,9 @@
 ﻿{
   "voices": [
     {
-      "categoryName": "cute",
+      "categoryName": "pin",
       "categoryDescription": {
-        "zh-CN": "▌可爱",
+        "zh-CN": "▌置顶",
         "ja-JP": "",
         "en-US": ""
       },
@@ -17,6 +17,25 @@
             "en-US": ""
           }
         },
+        {
+          "name": "mmzm-18",
+          "path": "mmzm-18.mp3",
+          "description": {
+            "zh-CN": "没点关注的请点关注，点了关注的请不要点举报",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "cute",
+      "categoryDescription": {
+        "zh-CN": "▌可爱",
+        "ja-JP": "",
+        "en-US": ""
+      },
+      "voiceList": [
         {
           "name": "mmzm-1",
           "path": "mmzm-1.mp3",
@@ -49,6 +68,15 @@
           "path": "mmzm-2.mp3",
           "description": {
             "zh-CN": "别送了，再送我要死了",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-17",
+          "path": "【可爱生草】被窝哄睡(1).mp3",
+          "description": {
+            "zh-CN": "被窝哄睡(1)",
             "ja-JP": "",
             "en-US": ""
           }
@@ -89,6 +117,42 @@
             "ja-JP": "",
             "en-US": ""
           }
+        },
+        {
+          "name": "mmzm-16",
+          "path": "【草】问题发言-尽情地设我.mp3",
+          "description": {
+            "zh-CN": "尽情地射我（指用夏日水枪）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-15",
+          "path": "【草】求饶.mp3",
+          "description": {
+            "zh-CN": "别射了别射了",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-17",
+          "path": "【可爱生草】被窝哄睡(1).mp3",
+          "description": {
+            "zh-CN": "被窝哄睡#1",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-21",
+          "path": "【草】献给三连的粉丝.mp3",
+          "description": {
+            "zh-CN": "献给三连的粉丝",
+            "ja-JP": "",
+            "en-US": ""
+          }
         }
       ]
     },
@@ -122,7 +186,34 @@
           "name": "mmzm-10",
           "path": "mmzm-10.mp3",
           "description": {
-            "zh-CN": "打电话骂你sabi",
+            "zh-CN": "小夜子（tel sabi ver.）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-12",
+          "path": "【？】别走.mp3",
+          "description": {
+            "zh-CN": "别走",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-13",
+          "path": "【？】不准睡！全体起立.mp3",
+          "description": {
+            "zh-CN": "不准睡！全体起立",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-14",
+          "path": "【？】不准死，别死.mp3",
+          "description": {
+            "zh-CN": "不准死，别死",
             "ja-JP": "",
             "en-US": ""
           }
@@ -175,10 +266,28 @@
       },
       "voiceList": [
         {
-          "name": "null",
-          "path": "null.mp3",
+          "name": "mmzm-17",
+          "path": "【可爱生草】被窝哄睡(1).mp3",
           "description": {
-            "zh-CN": "剪辑中，欢迎投稿",
+            "zh-CN": "被窝哄睡#1",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-18",
+          "path": "喵（与猫对叫）.mp3",
+          "description": {
+            "zh-CN": "喵（与猫对叫）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-22",
+          "path": "【涩】起身.mp3",
+          "description": {
+            "zh-CN": "起身",
             "ja-JP": "",
             "en-US": ""
           }
