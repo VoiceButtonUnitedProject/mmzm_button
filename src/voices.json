@@ -80,6 +80,42 @@
             "ja-JP": "",
             "en-US": ""
           }
+        },
+        {
+          "name": "mmzm-23",
+          "path": "笑（1）.mp3",
+          "description": {
+            "zh-CN": "笑声#1",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-24",
+          "path": "笑（2）.mp3",
+          "description": {
+            "zh-CN": "笑声#2",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-25",
+          "path": "笑（3）.mp3",
+          "description": {
+            "zh-CN": "笑声#3",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-26",
+          "path": "哈欠1.mp3",
+          "description": {
+            "zh-CN": "哈欠#1",
+            "ja-JP": "",
+            "en-US": ""
+          }
         }
       ]
     },
@@ -150,6 +186,15 @@
           "path": "【草】献给三连的粉丝.mp3",
           "description": {
             "zh-CN": "献给三连的粉丝",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-29",
+          "path": "喂1.mp3",
+          "description": {
+            "zh-CN": "喂？#1",
             "ja-JP": "",
             "en-US": ""
           }
@@ -288,6 +333,24 @@
           "path": "【涩】起身.mp3",
           "description": {
             "zh-CN": "起身",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-28",
+          "path": "就这（1）.mp3",
+          "description": {
+            "zh-CN": "就这还单推人（恼）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-27",
+          "path": "一般脱粪男性.mp3",
+          "description": {
+            "zh-CN": "一般脱粪男性",
             "ja-JP": "",
             "en-US": ""
           }
