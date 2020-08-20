@@ -49,8 +49,8 @@
                 <div class="pull-left">
                     <div class="text-left" style="color: #ffffff;">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
-                    <div class="text-left"><a href="https://voicebuttonunitedproject.github.io/mmzm_button/" target="_blank">{{$t("info.audioStaff")}}</a></div>
-                    <div class="text-left"><a href="https://github.com/VoiceButtonUnitedProject/mmzm_button" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-left"><a href="https://voosc.github.io/mmzm-button/" target="_blank">{{$t("info.audioStaff")}}</a></div>
+                    <div class="text-left"><a href="https://github.com/voosc/mmzm-button" target="_blank">{{$t("info.toGithub")}}</a></div>
                 </div>
             </div>
         </footer>
