@@ -3,7 +3,7 @@
     {
       "categoryName": "pin",
       "categoryDescription": {
-        "zh-CN": "▌置顶",
+        "zh-CN": "● 置顶",
         "ja-JP": "",
         "en-US": ""
       },
@@ -22,6 +22,196 @@
           "path": "mmzm-18.mp3",
           "description": {
             "zh-CN": "没点关注的请点关注，点了关注的请不要点举报",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "new",
+      "categoryDescription": {
+        "zh-CN": "● 最近更新",
+        "ja-JP": "",
+        "en-US": ""
+      },
+      "voiceList": [
+        {
+          "name": "mmzm-30",
+          "path": "妈妈！.mp3",
+          "description": {
+            "zh-CN": "妈妈！",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-31",
+          "path": "你们都是我的妈妈.mp3",
+          "description": {
+            "zh-CN": "别争了，你们都是我的妈妈",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-32",
+          "path": "没事不怕.mp3",
+          "description": {
+            "zh-CN": "没事没事不怕不怕",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-33",
+          "path": "哥哥（无表情）.mp3",
+          "description": {
+            "zh-CN": "哥哥（无表情）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-34",
+          "path": "大哥了.mp3",
+          "description": {
+            "zh-CN": "大哥了",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-35",
+          "path": "擦盘子.mp3",
+          "description": {
+            "zh-CN": "擦盘子",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-36",
+          "path": "皮卡丘叫.mp3",
+          "description": {
+            "zh-CN": "皮卡丘叫",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-37",
+          "path": "喵喵（debu）.mp3",
+          "description": {
+            "zh-CN": "喵喵（debu）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-38",
+          "path": "怎么输完了！.mp3",
+          "description": {
+            "zh-CN": "怎么输完了！",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-39",
+          "path": "芜湖1.mp3",
+          "description": {
+            "zh-CN": "芜湖#1",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-40",
+          "path": "芜湖2.mp3",
+          "description": {
+            "zh-CN": "芜湖#2",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-41",
+          "path": "芜湖3.mp3",
+          "description": {
+            "zh-CN": "芜湖！",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-42",
+          "path": "【草】伪·魔王笑.mp3",
+          "description": {
+            "zh-CN": "伪·魔王笑",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-43",
+          "path": "【可爱】糖豆人回学狼叫.mp3",
+          "description": {
+            "zh-CN": "学狼叫",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-44",
+          "path": "【草】WTF！有火影忍者.mp3",
+          "description": {
+            "zh-CN": "WTF！有火影忍者",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-45",
+          "path": "【可爱】需自备鼓膜的惨叫.mp3",
+          "description": {
+            "zh-CN": "需自备鼓膜的惨叫",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-46",
+          "path": "【怪叫非惨叫】1.mp3",
+          "description": {
+            "zh-CN": "怪叫（非惨叫）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-47",
+          "path": "【怪叫】2.mp3",
+          "description": {
+            "zh-CN": "怪叫",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-48",
+          "path": "【歌】虚拟许嵩的微博控.mp3",
+          "description": {
+            "zh-CN": "虚拟许嵩的微博控",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-49",
+          "path": "【歌】无伴奏版太阳系disco.mp3",
+          "description": {
+            "zh-CN": "无伴奏版太阳系disco",
             "ja-JP": "",
             "en-US": ""
           }
@@ -116,6 +306,114 @@
             "ja-JP": "",
             "en-US": ""
           }
+        },
+        {
+          "name": "mmzm-30",
+          "path": "妈妈！.mp3",
+          "description": {
+            "zh-CN": "妈妈！",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-31",
+          "path": "你们都是我的妈妈.mp3",
+          "description": {
+            "zh-CN": "别争了，你们都是我的妈妈",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-32",
+          "path": "没事不怕.mp3",
+          "description": {
+            "zh-CN": "没事没事不怕不怕",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-33",
+          "path": "哥哥（无表情）.mp3",
+          "description": {
+            "zh-CN": "哥哥（无表情）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-34",
+          "path": "大哥了.mp3",
+          "description": {
+            "zh-CN": "大哥了",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-35",
+          "path": "擦盘子.mp3",
+          "description": {
+            "zh-CN": "擦盘子",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-36",
+          "path": "皮卡丘叫.mp3",
+          "description": {
+            "zh-CN": "皮卡丘叫",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-19",
+          "path": "喵（与猫对叫）.mp3",
+          "description": {
+            "zh-CN": "喵（与猫对叫）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-39",
+          "path": "芜湖1.mp3",
+          "description": {
+            "zh-CN": "芜湖#1",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-40",
+          "path": "芜湖2.mp3",
+          "description": {
+            "zh-CN": "芜湖#2",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-41",
+          "path": "芜湖3.mp3",
+          "description": {
+            "zh-CN": "芜湖！",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-43",
+          "path": "【可爱】糖豆人回学狼叫.mp3",
+          "description": {
+            "zh-CN": "学狼叫",
+            "ja-JP": "",
+            "en-US": ""
+          }
         }
       ]
     },
@@ -146,10 +444,10 @@
           }
         },
         {
-          "name": "mmzm-19",
-          "path": "喵（与猫对叫）.mp3",
+          "name": "mmzm-37",
+          "path": "喵喵（debu）.mp3",
           "description": {
-            "zh-CN": "喵（与猫对叫）",
+            "zh-CN": "喵喵（debu）",
             "ja-JP": "",
             "en-US": ""
           }
@@ -194,7 +492,34 @@
           "name": "mmzm-29",
           "path": "喂1.mp3",
           "description": {
-            "zh-CN": "喂？#1",
+            "zh-CN": "喂？",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-38",
+          "path": "怎么输完了！.mp3",
+          "description": {
+            "zh-CN": "怎么输完了！",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-42",
+          "path": "【草】伪·魔王笑.mp3",
+          "description": {
+            "zh-CN": "伪·魔王笑",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-44",
+          "path": "【草】WTF！有火影忍者.mp3",
+          "description": {
+            "zh-CN": "WTF！有火影忍者",
             "ja-JP": "",
             "en-US": ""
           }
@@ -259,6 +584,62 @@
           "path": "【？】不准死，别死.mp3",
           "description": {
             "zh-CN": "不准死，别死",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "Weird",
+      "categoryDescription": {
+        "zh-CN": "▌怪叫",
+        "ja-JP": "",
+        "en-US": ""
+      },
+      "voiceList": [
+        {
+          "name": "mmzm-46",
+          "path": "【怪叫非惨叫】1.mp3",
+          "description": {
+            "zh-CN": "怪叫（非惨叫）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-47",
+          "path": "【怪叫】2.mp3",
+          "description": {
+            "zh-CN": "怪叫",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "Song",
+      "categoryDescription": {
+        "zh-CN": "▌歌",
+        "ja-JP": "",
+        "en-US": ""
+      },
+      "voiceList": [
+        {
+          "name": "mmzm-48",
+          "path": "【歌】虚拟许嵩的微博控.mp3",
+          "description": {
+            "zh-CN": "虚拟许嵩的微博控",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-49",
+          "path": "【歌】无伴奏版太阳系disco.mp3",
+          "description": {
+            "zh-CN": "无伴奏版太阳系disco",
             "ja-JP": "",
             "en-US": ""
           }
@@ -332,7 +713,7 @@
           "name": "mmzm-22",
           "path": "【涩】起身.mp3",
           "description": {
-            "zh-CN": "起身",
+            "zh-CN": "起身（涩）",
             "ja-JP": "",
             "en-US": ""
           }
