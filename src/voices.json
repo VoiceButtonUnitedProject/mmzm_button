@@ -19,7 +19,7 @@
         },
         {
           "name": "mmzm-18",
-          "path": "mmzm-18.mp3",
+          "path": "mmzm-18v2.mp3",
           "description": {
             "zh-CN": "没点关注的请点关注，点了关注的请不要点举报",
             "ja-JP": "",
@@ -732,6 +732,25 @@
           "path": "一般脱粪男性.mp3",
           "description": {
             "zh-CN": "一般脱粪男性",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "0912",
+      "categoryDescription": {
+        "zh-CN": "▌9月12日温柔歌回",
+        "ja-JP": "",
+        "en-US": ""
+      },
+      "voiceList": [
+        {
+          "name": "null",
+          "path": "null.mp3",
+          "description": {
+            "zh-CN": "制作中 欢迎投稿",
             "ja-JP": "",
             "en-US": ""
           }

@@ -36,7 +36,7 @@
                 </div>-->
                 <div class="cate-ctrldft">{{$t("action.adtitle")}}
                     <!--<button class="btn btn-ctrldft" onclick="window.open('EXAMPLE.COM')">{{$t("action.weekly")}}</button>-->
-                    <button class="btn btn-ctrldft" onclick="window.open('https://mmzm.cowtransfer.com/s/168db661318f42')">{{$t("action.sticker")}}</button>
+                    <button class="btn btn-ctrldft" onclick="window.open('https://mmzm.cowtransfer.com/s/3229f3be4de543')">{{$t("action.sticker")}}</button>
                     <button class="btn btn-ctrldft" onclick="window.open('https://vtbbtn.org')">{{$t("action.vtbbtn")}}</button>
                 </div>
             <div v-for="category in voices" v-bind:key="category.categoryName">
