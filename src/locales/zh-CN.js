@@ -27,7 +27,7 @@ const zh_CN = {
         noplay: "",
         adtitle: "● 联动项目",
         weekly: "WEEKLY PROJECT",
-        sticker: "眠目直木的录播网盘",
+        sticker: "眠目直木的录播组号",
         plan: "计划日期",
         ing: "正在直播"
     },
