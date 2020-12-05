@@ -9,6 +9,15 @@
       },
       "voiceList": [
         {
+          "name": "151",
+          "path": "xxmmzm!.mp3",
+          "description": {
+            "zh-CN": "xxmmzm！",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
           "name": "mmzm-98",
           "path": "自我介绍（误.mp3",
           "description": {
@@ -34,6 +43,15 @@
             "ja-JP": "",
             "en-US": ""
           }
+        },
+        {
+          "name": "152",
+          "path": "关于站长（误.mp3",
+          "description": {
+            "zh-CN": "关于站长（自豪）",
+            "ja-JP": "",
+            "en-US": ""
+          }
         }
       ]
     },
@@ -46,271 +64,199 @@
       },
       "voiceList": [
         {
-          "name": "mmzm-98",
-          "path": "自我介绍（误.mp3",
+          "name": "153",
+          "path": "好开心啊.mp3",
           "description": {
-            "zh-CN": "自我介绍（误）",
+            "zh-CN": "好开心啊",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-99",
-          "path": "大怒.mp3",
+          "name": "130",
+          "path": "俯卧撑1.mp3",
           "description": {
-            "zh-CN": "大怒",
+            "zh-CN": "(俯卧撑)",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-100",
-          "path": "f嗝l嗝o嗝s.mp3",
+          "name": "131",
+          "path": "嗝3.mp3",
           "description": {
-            "zh-CN": "f嗝l嗝o嗝s",
+            "zh-CN": "嗝#3",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-101",
-          "path": "【可爱】难过.mp3",
+          "name": "132",
+          "path": "嗝4.mp3",
           "description": {
-            "zh-CN": "难过",
+            "zh-CN": "嗝#4",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-102",
-          "path": "男妈妈suki.mp3",
+          "name": "133",
+          "path": "嗝5.mp3",
           "description": {
-            "zh-CN": "男妈妈suki",
+            "zh-CN": "嗝#5",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-103",
-          "path": "哈欠2.mp3",
+          "name": "134",
+          "path": "3嗝.mp3",
           "description": {
-            "zh-CN": "哈欠#2",
+            "zh-CN": "“3”",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-104",
-          "path": "哒哒哒.mp3",
+          "name": "138",
+          "path": "灰色头像.mp3",
           "description": {
-            "zh-CN": "哒哒哒",
+            "zh-CN": "《灰色头像》",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-105",
-          "path": "noooo（悲鸣.mp3",
+          "name": "135",
+          "path": "我的手麻了.mp3",
           "description": {
-            "zh-CN": "noooo（悲鸣）",
+            "zh-CN": "(手麻了)",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-106",
-          "path": "吸溜，太色了.mp3",
+          "name": "136",
+          "path": "穿外套.mp3",
           "description": {
-            "zh-CN": "色自己",
+            "zh-CN": "(穿外套)",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-107",
-          "path": "哈欠喷嚏.mp3",
+          "name": "137",
+          "path": "清嗓子.mp3",
           "description": {
-            "zh-CN": "哈欠喷嚏",
+            "zh-CN": "(清嗓子)",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-108",
-          "path": "喘气.mp3",
+          "name": "129",
+          "path": "爬！.mp3",
           "description": {
-            "zh-CN": "喘气",
+            "zh-CN": "爬！",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-109",
-          "path": "oyeah芜湖.mp3",
+          "name": "139",
+          "path": "吸溜3.mp3",
           "description": {
-            "zh-CN": "噢yeah芜湖！",
+            "zh-CN": "吸溜#3",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-110",
-          "path": "被柚子酸到.mp3",
+          "name": "140",
+          "path": "你说这打个锤子.mp3",
           "description": {
-            "zh-CN": "(被柚子酸到)",
+            "zh-CN": "你说这打个锤子！",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-111",
-          "path": "不准欺负木宝.mp3",
+          "name": "142",
+          "path": "笑10.mp3",
           "description": {
-            "zh-CN": "不准欺负木宝",
+            "zh-CN": "笑#10",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-112",
-          "path": "多来点男妈妈.mp3",
+          "name": "143",
+          "path": "笑11.mp3",
           "description": {
-            "zh-CN": "多来点男妈妈",
+            "zh-CN": "笑#11",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-113",
-          "path": "嗝1.mp3",
+          "name": "144",
+          "path": "笑12.mp3",
           "description": {
-            "zh-CN": "嗝#1",
+            "zh-CN": "笑#12",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-114",
-          "path": "嗝2.mp3",
+          "name": "145",
+          "path": "shine.mp3",
           "description": {
-            "zh-CN": "嗝#2",
+            "zh-CN": "死ね",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-115 ",
-          "path": "咳嗽（清楚.mp3",
+          "name": "146",
+          "path": "shine（喵爷.mp3",
           "description": {
-            "zh-CN": "咳嗽（清楚）",
+            "zh-CN": "死ね（喵爷版）",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-116",
-          "path": "哭.mp3",
+          "name": "147",
+          "path": "哼（喵爷.mp3",
           "description": {
-            "zh-CN": "哭#1",
+            "zh-CN": "哼",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-117",
-          "path": "妈妈的.mp3",
+          "name": "148",
+          "path": "我才不是小孩子呢.mp3",
           "description": {
-            "zh-CN": "妈妈的（恼）",
+            "zh-CN": "我才不是小孩子呢",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-118",
-          "path": "牛逼啊.mp3",
+          "name": "149",
+          "path": "这是我该做的.mp3",
           "description": {
-            "zh-CN": "牛逼啊",
+            "zh-CN": "这是我该做的",
             "ja-JP": "",
             "en-US": ""
           }
         },
         {
-          "name": "mmzm-119",
-          "path": "哦.mp3",
+          "name": "150",
+          "path": "虎视眈眈（喵爷.mp3",
           "description": {
-            "zh-CN": "哦↗↘",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-120",
-          "path": "我们是健康哥.mp3",
-          "description": {
-            "zh-CN": "我们是健康哥！",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-121",
-          "path": "我晕了.mp3",
-          "description": {
-            "zh-CN": "我晕了",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-122",
-          "path": "我晕眩了.mp3",
-          "description": {
-            "zh-CN": "我晕眩了",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-123",
-          "path": "呜呜太感动了.mp3",
-          "description": {
-            "zh-CN": "呜呜太感动了",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-124",
-          "path": "芜湖3v.mp3",
-          "description": {
-            "zh-CN": "芜湖#3",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-125",
-          "path": "主播是美少女哦.mp3",
-          "description": {
-            "zh-CN": "主播是美少女哦",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-128",
-          "path": "喝水.mp3",
-          "description": {
-            "zh-CN": "喝水",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-126",
-          "path": "【可爱】只是在倒数three two one的mmzm.mp3",
-          "description": {
-            "zh-CN": "倒数 three two one",
+            "zh-CN": "虎视眈眈（喵爷版）",
             "ja-JP": "",
             "en-US": ""
           }
@@ -327,7 +273,7 @@
       "voiceList": [
         {
           "name": "mmzm-1",
-          "path": "mmzm-1.mp3",
+          "path": "mmzm-1_v2.mp3",
           "description": {
             "zh-CN": "我很可爱，请给我钱",
             "ja-JP": "",
@@ -336,7 +282,7 @@
         },
         {
           "name": "mmzm-3",
-          "path": "mmzm-3.mp3",
+          "path": "mmzm-3_v2.mp3",
           "description": {
             "zh-CN": "Σ(ﾟДﾟ)啊？！",
             "ja-JP": "",
@@ -345,7 +291,7 @@
         },
         {
           "name": "mmzm-4",
-          "path": "mmzm-4.mp3",
+          "path": "mmzm-4_v2.mp3",
           "description": {
             "zh-CN": "Σ(ﾟДﾟ)什么？！",
             "ja-JP": "",
@@ -354,7 +300,7 @@
         },
         {
           "name": "mmzm-2",
-          "path": "mmzm-2.mp3",
+          "path": "mmzm-2_v2.mp3",
           "description": {
             "zh-CN": "别送了，再送我要死了",
             "ja-JP": "",
@@ -372,7 +318,7 @@
         },
         {
           "name": "mmzm-26",
-          "path": "哈欠1.mp3",
+          "path": "哈欠1_v2.mp3",
           "description": {
             "zh-CN": "哈欠#1",
             "ja-JP": "",
@@ -381,7 +327,7 @@
         },
         {
           "name": "mmzm-30",
-          "path": "【可爱】妈妈！.mp3",
+          "path": "【可爱】妈妈！_v2.mp3",
           "description": {
             "zh-CN": "妈妈！",
             "ja-JP": "",
@@ -560,6 +506,79 @@
           }
         },
         {
+          "name": "mmzm-111",
+          "path": "不准欺负木宝.mp3",
+          "description": {
+            "zh-CN": "不准欺负木宝",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-123",
+          "path": "呜呜太感动了.mp3",
+          "description": {
+            "zh-CN": "呜呜太感动了",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "hso",
+      "categoryDescription": {
+        "zh-CN": "▌hso",
+        "ja-JP": "",
+        "en-US": ""
+      },
+      "voiceList": [
+        {
+          "name": "mmzm-22",
+          "path": "【涩】起身.mp3",
+          "description": {
+            "zh-CN": "起身",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "130",
+          "path": "俯卧撑1.mp3",
+          "description": {
+            "zh-CN": "(俯卧撑)",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "135",
+          "path": "我的手麻了.mp3",
+          "description": {
+            "zh-CN": "(手麻了)",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "136",
+          "path": "穿外套.mp3",
+          "description": {
+            "zh-CN": "(穿外套)",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "137",
+          "path": "清嗓子.mp3",
+          "description": {
+            "zh-CN": "(清嗓子)",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
           "name": "mmzm-110",
           "path": "被柚子酸到.mp3",
           "description": {
@@ -569,10 +588,147 @@
           }
         },
         {
-          "name": "mmzm-111",
-          "path": "不准欺负木宝.mp3",
+          "name": "mmzm-106",
+          "path": "吸溜，太色了.mp3",
           "description": {
-            "zh-CN": "不准欺负木宝",
+            "zh-CN": "吸溜，太色了",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "miaoye",
+      "categoryDescription": {
+        "zh-CN": "▌喵爷",
+        "ja-JP": "",
+        "en-US": ""
+      },
+      "voiceList": [
+        {
+          "name": "146",
+          "path": "shine（喵爷.mp3",
+          "description": {
+            "zh-CN": "死ね（喵爷版）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "147",
+          "path": "哼（喵爷.mp3",
+          "description": {
+            "zh-CN": "哼",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "148",
+          "path": "我才不是小孩子呢.mp3",
+          "description": {
+            "zh-CN": "我才不是小孩子呢",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "149",
+          "path": "这是我该做的.mp3",
+          "description": {
+            "zh-CN": "这是我该做的",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "150",
+          "path": "虎视眈眈（喵爷.mp3",
+          "description": {
+            "zh-CN": "虎视眈眈（喵爷版）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "ge",
+      "categoryDescription": {
+        "zh-CN": "▌嗝",
+        "ja-JP": "",
+        "en-US": ""
+      },
+      "voiceList": [
+        {
+          "name": "mmzm-113",
+          "path": "嗝1v2.mp3",
+          "description": {
+            "zh-CN": "嗝#1",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-114",
+          "path": "嗝2v2.mp3",
+          "description": {
+            "zh-CN": "嗝#2",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "131",
+          "path": "嗝3.mp3",
+          "description": {
+            "zh-CN": "嗝#3",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "132",
+          "path": "嗝4.mp3",
+          "description": {
+            "zh-CN": "嗝#4",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "133",
+          "path": "嗝5.mp3",
+          "description": {
+            "zh-CN": "嗝#5",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "mmzm-100",
+          "path": "f嗝l嗝o嗝s.mp3",
+          "description": {
+            "zh-CN": "f嗝l嗝o嗝s",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "134",
+          "path": "3嗝.mp3",
+          "description": {
+            "zh-CN": "“3”",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "138",
+          "path": "灰色头像.mp3",
+          "description": {
+            "zh-CN": "《灰色头像》",
             "ja-JP": "",
             "en-US": ""
           }
@@ -589,7 +745,7 @@
       "voiceList": [
         {
           "name": "mmzm-5",
-          "path": "mmzm-5.mp3",
+          "path": "mmzm-5_v2.mp3",
           "description": {
             "zh-CN": "这是你身为一个ATM机该说出来的话吗",
             "ja-JP": "",
@@ -598,7 +754,7 @@
         },
         {
           "name": "mmzm-6",
-          "path": "mmzm-6.mp3",
+          "path": "mmzm-6_v2.mp3",
           "description": {
             "zh-CN": "喵（炸毛）",
             "ja-JP": "",
@@ -616,7 +772,7 @@
         },
         {
           "name": "mmzm-7",
-          "path": "mmzm-7.mp3",
+          "path": "mmzm-7_v2.mp3",
           "description": {
             "zh-CN": "我直播就是为了抢钱",
             "ja-JP": "",
@@ -696,15 +852,6 @@
           }
         },
         {
-          "name": "mmzm-100",
-          "path": "f嗝l嗝o嗝s.mp3",
-          "description": {
-            "zh-CN": "f嗝l嗝o嗝s",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
           "name": "mmzm-119",
           "path": "哦.mp3",
           "description": {
@@ -725,7 +872,7 @@
       "voiceList": [
         {
           "name": "mmzm-8",
-          "path": "mmzm-8.mp3",
+          "path": "mmzm-8_v2.mp3",
           "description": {
             "zh-CN": "火龙果怎么叫",
             "ja-JP": "",
@@ -734,7 +881,7 @@
         },
         {
           "name": "mmzm-9",
-          "path": "mmzm-9.mp3",
+          "path": "mmzm-9_v2.mp3",
           "description": {
             "zh-CN": "告白",
             "ja-JP": "",
@@ -743,7 +890,7 @@
         },
         {
           "name": "mmzm-10",
-          "path": "mmzm-10.mp3",
+          "path": "mmzm-10_v2.mp3",
           "description": {
             "zh-CN": "小夜子（tel sabi ver.）",
             "ja-JP": "",
@@ -808,7 +955,7 @@
           "name": "mmzm-106",
           "path": "吸溜，太色了.mp3",
           "description": {
-            "zh-CN": "色自己",
+            "zh-CN": "吸溜，太色了",
             "ja-JP": "",
             "en-US": ""
           }
@@ -970,7 +1117,7 @@
         },
         {
           "name": "mmzm-26",
-          "path": "哈欠1.mp3",
+          "path": "哈欠1_v2.mp3",
           "description": {
             "zh-CN": "哈欠#1",
             "ja-JP": "",
@@ -1059,6 +1206,15 @@
           }
         },
         {
+          "name": "139",
+          "path": "吸溜3.mp3",
+          "description": {
+            "zh-CN": "吸溜#3",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
           "name": "mmzm-94",
           "path": "【？】打喷嚏.mp3",
           "description": {
@@ -1098,25 +1254,7 @@
           "name": "mmzm-107",
           "path": "哈欠喷嚏.mp3",
           "description": {
-            "zh-CN": "哈欠喷嚏",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-113",
-          "path": "嗝1.mp3",
-          "description": {
-            "zh-CN": "嗝#1",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-114",
-          "path": "嗝2.mp3",
-          "description": {
-            "zh-CN": "嗝#2",
+            "zh-CN": "喷嚏哈欠",
             "ja-JP": "",
             "en-US": ""
           }
@@ -1151,7 +1289,7 @@
       "voiceList": [
         {
           "name": "mmzm-30",
-          "path": "【可爱】妈妈！.mp3",
+          "path": "【可爱】妈妈！_v2.mp3",
           "description": {
             "zh-CN": "妈妈！",
             "ja-JP": "",
@@ -1200,6 +1338,24 @@
           "path": "妈妈的.mp3",
           "description": {
             "zh-CN": "妈妈的（恼）",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "129",
+          "path": "爬！.mp3",
+          "description": {
+            "zh-CN": "爬！",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "140",
+          "path": "你说这打个锤子.mp3",
+          "description": {
+            "zh-CN": "你说这打个锤子！",
             "ja-JP": "",
             "en-US": ""
           }
@@ -1269,6 +1425,15 @@
         "en-US": ""
       },
       "voiceList": [
+        {
+          "name": "153",
+          "path": "好开心啊.mp3",
+          "description": {
+            "zh-CN": "好开心啊",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
         {
           "name": "mmzm-23",
           "path": "笑（1）.mp3",
@@ -1351,6 +1516,33 @@
           }
         },
         {
+          "name": "142",
+          "path": "笑10.mp3",
+          "description": {
+            "zh-CN": "笑#10",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "143",
+          "path": "笑11.mp3",
+          "description": {
+            "zh-CN": "笑#11",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "144",
+          "path": "笑12.mp3",
+          "description": {
+            "zh-CN": "笑#12",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
           "name": "mmzm-58",
           "path": "把自己逗笑了一分钟的mmzm.mp3",
           "description": {
@@ -1426,7 +1618,7 @@
       "voiceList": [
         {
           "name": "mmzm-8",
-          "path": "mmzm-8.mp3",
+          "path": "mmzm-8_v2.mp3",
           "description": {
             "zh-CN": "火龙果怎么叫",
             "ja-JP": "",
@@ -1435,7 +1627,7 @@
         },
         {
           "name": "mmzm-9",
-          "path": "mmzm-9.mp3",
+          "path": "mmzm-9_v2.mp3",
           "description": {
             "zh-CN": "告白",
             "ja-JP": "",
@@ -1444,7 +1636,7 @@
         },
         {
           "name": "mmzm-6",
-          "path": "mmzm-6.mp3",
+          "path": "mmzm-6_v2.mp3",
           "description": {
             "zh-CN": "喵（炸毛）",
             "ja-JP": "",
@@ -1483,7 +1675,7 @@
           "name": "mmzm-22",
           "path": "【涩】起身.mp3",
           "description": {
-            "zh-CN": "起身（涩）",
+            "zh-CN": "起身",
             "ja-JP": "",
             "en-US": ""
           }
