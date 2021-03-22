@@ -43,15 +43,6 @@
             "ja-JP": "",
             "en-US": ""
           }
-        },
-        {
-          "name": "152",
-          "path": "关于站长（误.mp3",
-          "description": {
-            "zh-CN": "关于站长（自豪）",
-            "ja-JP": "",
-            "en-US": ""
-          }
         }
       ]
     },
@@ -519,79 +510,6 @@
           "path": "呜呜太感动了.mp3",
           "description": {
             "zh-CN": "呜呜太感动了",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        }
-      ]
-    },
-    {
-      "categoryName": "hso",
-      "categoryDescription": {
-        "zh-CN": "▌hso",
-        "ja-JP": "",
-        "en-US": ""
-      },
-      "voiceList": [
-        {
-          "name": "mmzm-22",
-          "path": "【涩】起身.mp3",
-          "description": {
-            "zh-CN": "起身",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "130",
-          "path": "俯卧撑1.mp3",
-          "description": {
-            "zh-CN": "(俯卧撑)",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "135",
-          "path": "我的手麻了.mp3",
-          "description": {
-            "zh-CN": "(手麻了)",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "136",
-          "path": "穿外套.mp3",
-          "description": {
-            "zh-CN": "(穿外套)",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "137",
-          "path": "清嗓子.mp3",
-          "description": {
-            "zh-CN": "(清嗓子)",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-110",
-          "path": "被柚子酸到.mp3",
-          "description": {
-            "zh-CN": "(被柚子酸到)",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-106",
-          "path": "吸溜，太色了.mp3",
-          "description": {
-            "zh-CN": "吸溜，太色了",
             "ja-JP": "",
             "en-US": ""
           }
