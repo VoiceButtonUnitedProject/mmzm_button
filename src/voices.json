@@ -55,6 +55,15 @@
       },
       "voiceList": [
         {
+          "name": "165",
+          "path": "【emo】给所有人的亲亲.mp3",
+          "description": {
+            "zh-CN": "给所有人的亲亲",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
           "name": "157",
           "path": "0110空袭警报.mp3",
           "description": {
@@ -122,15 +131,6 @@
           "path": "0301喷嚏.mp3",
           "description": {
             "zh-CN": "喷嚏#3",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "165",
-          "path": "【emo】给所有人的亲亲.mp3",
-          "description": {
-            "zh-CN": "给所有人的亲亲",
             "ja-JP": "",
             "en-US": ""
           }
