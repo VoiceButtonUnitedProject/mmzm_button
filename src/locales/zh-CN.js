@@ -2,12 +2,12 @@ const zh_CN = {
     info: {
         title: "眠按钮",
         info: "信息",
-        author: "懒狗组 × 按钮联合工作室 2020",
+        author: "懒狗组 × 按钮联合工作室",
         null: "空",
         subscriber: "当前Youtube订阅数为：",
         audioStaff: "鸣谢名单以及网站相关",
         toGithub: "请在GitHub提出您的宝贵意见",
-        notOfficial: "意见和反馈：mmzmMoe@outlook.com",
+        notOfficial: "粉丝群：872866906",
         overlapTips: "叠加播放无法暂停，同时会创建大量线程，建议偶尔刷新页面"
     },
     action: {
