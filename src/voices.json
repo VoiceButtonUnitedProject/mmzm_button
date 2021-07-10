@@ -1789,7 +1789,7 @@
       ]
     },
     {
-      "categoryName": "08/13beiwozatan",
+      "categoryName": "beiwozatan",
       "categoryDescription": {
         "zh-CN": "▌被窝杂谈合集",
         "ja-JP": "",
@@ -1936,15 +1936,6 @@
           "path": "我认错了.mp3",
           "description": {
             "zh-CN": "我认错了",
-            "ja-JP": "",
-            "en-US": ""
-          }
-        },
-        {
-          "name": "mmzm-51",
-          "path": "笑4.mp3",
-          "description": {
-            "zh-CN": "笑#4",
             "ja-JP": "",
             "en-US": ""
           }
